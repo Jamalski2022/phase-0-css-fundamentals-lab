@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+#img_deg{
+  display: block;
+  margin: auto;
+  
+}
+nav a {
+  padding: 10px 10px;
+  background-color: pink;
+  
+}
+figcaption{
+  font-size: 10px;
+  text-align: center;
+}
+#featured-property p {
+  width: 800px;
+  margin: 20px auto; /* add 20px vertical space and center horizontally */
+  text-align: center;
+}
+div{
+  float: left;
+  text-align: center;
+  background-color:yellow;
+  width: 25%;
+}
